@@ -1,0 +1,19 @@
+{'date': '18 Feb 2019', 'time': '08:00:09,101', 'level': 'INFO', 'thread': 'New I/O worker #4', 'label': 'bitswarm.sessions.DefaultSessionManager', 'message': 'Session created: { Id: 25619, Type: WEBSOCKET, Logged: No, IP: 192.168.10.120 } on Server port: 8888 <---> 50900'}
+{'date': '18 Feb 2019', 'time': '08:00:12,887', 'level': 'INFO', 'thread': 'pool-1-thread-3', 'label': 'Extensions', 'message': '{Game}: game task number 6 reporting in '}
+{'date': '18 Feb 2019', 'time': '08:00:13,904', 'level': 'INFO', 'thread': 'pool-1-thread-4', 'label': 'Extensions', 'message': '{Game}: stop saving tutorial '}
+{'date': '18 Feb 2019', 'time': '08:00:15,524', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: stop saving 3 '}
+{'date': '18 Feb 2019', 'time': '08:00:17,054', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: stop saving 5 '}
+{'date': '18 Feb 2019', 'time': '08:00:18,386', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: start saving 7 '}
+{'date': '18 Feb 2019', 'time': '08:00:19,110', 'level': 'INFO', 'thread': 'New I/O worker #5', 'label': 'bitswarm.sessions.DefaultSessionManager', 'message': 'Session created: { Id: 25620, Type: WEBSOCKET, Logged: No, IP: 192.168.10.87 } on Server port: 8888 <---> 44188'}
+{'date': '18 Feb 2019', 'time': '08:00:31,399', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: AlliancesTask! '}
+{'date': '18 Feb 2019', 'time': '08:00:31,780', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: add leader 2307 StENDup '}
+{'date': '18 Feb 2019', 'time': '08:00:31,780', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: add leader 2063 TESTBEST '}
+{'date': '18 Feb 2019', 'time': '08:00:31,780', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: add leader 3101 T20Alliance '}
+{'date': '18 Feb 2019', 'time': '08:00:31,791', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: check leader killemister1 StENDup '}
+{'date': '18 Feb 2019', 'time': '08:00:31,791', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: check leader test TESTBEST '}
+{'date': '18 Feb 2019', 'time': '08:00:31,791', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: check leader test123 T20Alliance '}
+{'date': '18 Feb 2019', 'time': '08:00:43,713', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: stop saving 1 '}
+{'date': '18 Feb 2019', 'time': '08:00:44,891', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: start saving 2 '}
+{'date': '18 Feb 2019', 'time': '08:00:45,524', 'level': 'INFO', 'thread': 'pool-1-thread-3', 'label': 'Extensions', 'message': '{Game}: stop saving 3 '}
+{'date': '18 Feb 2019', 'time': '08:00:47,053', 'level': 'INFO', 'thread': 'pool-1-thread-4', 'label': 'Extensions', 'message': '{Game}: stop saving 5 '}
+{'date': '18 Feb 2019', 'time': '08:00:48,388', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: stop saving 7 '}

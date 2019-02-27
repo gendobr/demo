@@ -1,0 +1,19 @@
+{'date': '18 Feb 2019', 'time': '08:00:10,052', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: game task number tutorial reporting in '}
+{'date': '18 Feb 2019', 'time': '08:00:13,705', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: start saving 1 '}
+{'date': '18 Feb 2019', 'time': '08:00:14,891', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: start saving 2 '}
+{'date': '18 Feb 2019', 'time': '08:00:16,536', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: start saving 4 '}
+{'date': '18 Feb 2019', 'time': '08:00:17,187', 'level': 'INFO', 'thread': 'pool-1-thread-3', 'label': 'Extensions', 'message': '{Game}: game task number 1 reporting in '}
+{'date': '18 Feb 2019', 'time': '08:00:18,389', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: stop saving 7 '}
+{'date': '18 Feb 2019', 'time': '08:00:19,348', 'level': 'INFO', 'thread': 'New I/O worker #6', 'label': 'bitswarm.sessions.DefaultSessionManager', 'message': 'Session created: { Id: 25621, Type: WEBSOCKET, Logged: No, IP: 192.168.10.87 } on Server port: 8888 <---> 44193'}
+{'date': '18 Feb 2019', 'time': '08:00:31,780', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: add leader 2308 EROBERER '}
+{'date': '18 Feb 2019', 'time': '08:00:31,780', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: add leader 2397 jjghgjh '}
+{'date': '18 Feb 2019', 'time': '08:00:31,780', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: add leader 2618 FAIR '}
+{'date': '18 Feb 2019', 'time': '08:00:31,791', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: check leader camper EROBERER '}
+{'date': '18 Feb 2019', 'time': '08:00:31,791', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: check leader holger2 jjghgjh '}
+{'date': '18 Feb 2019', 'time': '08:00:31,791', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: check leader mj2804 FAIR '}
+{'date': '18 Feb 2019', 'time': '08:00:31,791', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: AlliancesTask end! '}
+{'date': '18 Feb 2019', 'time': '08:00:43,903', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: start saving tutorial '}
+{'date': '18 Feb 2019', 'time': '08:00:44,914', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: stop saving 2 '}
+{'date': '18 Feb 2019', 'time': '08:00:46,536', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: start saving 4 '}
+{'date': '18 Feb 2019', 'time': '08:00:47,895', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: start saving 6 '}
+{'date': '18 Feb 2019', 'time': '08:00:49,114', 'level': 'INFO', 'thread': 'New I/O worker #4', 'label': 'bitswarm.sessions.DefaultSessionManager', 'message': 'Session removed: { Id: 25619, Type: WEBSOCKET, Logged: No, IP: 192.168.10.120:50900 }'}

@@ -1,0 +1,19 @@
+{'date': '18 Feb 2019', 'time': '08:00:01,848', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: game task number 4 reporting in '}
+{'date': '18 Feb 2019', 'time': '08:00:11,375', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: game task number 5 reporting in '}
+{'date': '18 Feb 2019', 'time': '08:00:13,713', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: stop saving 1 '}
+{'date': '18 Feb 2019', 'time': '08:00:14,915', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: stop saving 2 '}
+{'date': '18 Feb 2019', 'time': '08:00:16,561', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: stop saving 4 '}
+{'date': '18 Feb 2019', 'time': '08:00:17,895', 'level': 'INFO', 'thread': 'pool-1-thread-4', 'label': 'Extensions', 'message': '{Game}: start saving 6 '}
+{'date': '18 Feb 2019', 'time': '08:00:19,103', 'level': 'INFO', 'thread': 'New I/O worker #3', 'label': 'bitswarm.sessions.DefaultSessionManager', 'message': 'Session removed: { Id: 25618, Type: WEBSOCKET, Logged: No, IP: 192.168.10.87:44133 }'}
+{'date': '18 Feb 2019', 'time': '08:00:28,838', 'level': 'INFO', 'thread': 'pool-1-thread-3', 'label': 'Extensions', 'message': '{Game}: start GlobalPlayersSaver  '}
+{'date': '18 Feb 2019', 'time': '08:00:31,780', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: add leader 1197 GAIA '}
+{'date': '18 Feb 2019', 'time': '08:00:31,780', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: add leader 3120 BWT '}
+{'date': '18 Feb 2019', 'time': '08:00:31,780', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: add leader 2946 SEK '}
+{'date': '18 Feb 2019', 'time': '08:00:31,791', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: check leader fuchs GAIA '}
+{'date': '18 Feb 2019', 'time': '08:00:31,791', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: check leader natali BWT '}
+{'date': '18 Feb 2019', 'time': '08:00:31,791', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: check leader angelus SEK '}
+{'date': '18 Feb 2019', 'time': '08:00:37,240', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: game task number 2 reporting in '}
+{'date': '18 Feb 2019', 'time': '08:00:43,904', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: stop saving tutorial '}
+{'date': '18 Feb 2019', 'time': '08:00:45,235', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: game task number 3 reporting in '}
+{'date': '18 Feb 2019', 'time': '08:00:46,563', 'level': 'INFO', 'thread': 'pool-1-thread-1', 'label': 'Extensions', 'message': '{Game}: stop saving 4 '}
+{'date': '18 Feb 2019', 'time': '08:00:47,899', 'level': 'INFO', 'thread': 'pool-1-thread-2', 'label': 'Extensions', 'message': '{Game}: stop saving 6 '}
